@@ -4,8 +4,9 @@ import { Link } from 'gatsby';
 export default () => {
   return (
     <>
-      <h2>Hello Frontend Masters!</h2>
-      <Link to="/about">Learn more about me &rarr;</Link>
+      <h2>About me</h2>
+      <p>This is my personal website</p>
+      <Link to="/">&larr; back to home</Link>
     </>
   );
 };
