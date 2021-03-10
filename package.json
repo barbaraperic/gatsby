@@ -18,8 +18,10 @@
     "@emotion/styled": "^11.1.5",
     "gatsby": "^2.18.6",
     "gatsby-plugin-emotion": "^6.0.0",
+    "gatsby-plugin-react-helmet": "^4.0.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "cross-env": "^6.0.3",
